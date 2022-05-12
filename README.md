@@ -1,1 +1,1 @@
-# projeto_template_rails
+# Algo para o Tiago entender o que são branches no github

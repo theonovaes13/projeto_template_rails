@@ -1,1 +1,1 @@
-# Algo para o Thiago entender o que são branches no github
+# Algo para o Tiago entender o que são branches no github
